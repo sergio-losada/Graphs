@@ -292,7 +292,6 @@ public class Graph<Vertex> {
 	 */
 	public Collection<Vertex> getAllVertex(){
 		return this.adjacentList.keySet();
-
 	}
 
 	
